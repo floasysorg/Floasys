@@ -460,9 +460,6 @@ footer a:hover {
   aside#sidebar a.button {
     display: none;
   }
-  aside#sidebar h1 {
-  	font-size: 60px;
-  }
   #main-content h1:before,
   #main-content h2:before,
   #main-content h3:before,
